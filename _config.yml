@@ -30,7 +30,7 @@ footer-links:
 disqus: ranvir-singh
 google_analytics: UA-73349527-12
 url: https://an-droidx.github.io/BEST/
-baseurl: "https://github.com/an-droidx/BEST"
+baseurl: "https://an-droidx.github.io/BEST/"
 permalink: "/:title/"
 version: v1.2.0
 sidebar: true
